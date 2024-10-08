@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComposeQuadrant</string>
+
+    <!-- Compose Quadrant screen -->
+    <string name="first_title">Pertama</string>
+    <string name="first_description">Ini adalah deskripsi dari komponen pertama.</string>
+    <string name="second_title">Kedua</string>
+    <string name="second_description">Ini adalah deskripsi dari komponen kedua.</string>
+    <string name="third_title">Ketiga</string>
+    <string name="third_description">Ini adalah deskripsi dari komponen ketiga.</string>
+    <string name="fourth_title">Keempat</string>
+    <string name="fourth_description">Ini adalah deskripsi dari komponen keempat.</string>
+
+</resources>
