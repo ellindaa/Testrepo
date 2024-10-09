@@ -76,7 +76,7 @@ private fun ArticleCard(
         )
     }
 }
-
+//  Untuk menampilkan pada pratinjau
 @Preview(showBackground = true)
 @Composable
 fun ComposeArticlePreview() {
